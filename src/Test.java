@@ -16,3 +16,10 @@ public class Test {
         return (a+b)/2;
     }
 }
+
+
+public void jungle(){
+    System.out.println("FelixL");
+
+
+}
