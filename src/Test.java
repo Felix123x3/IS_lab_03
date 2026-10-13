@@ -8,7 +8,7 @@ public class Test {
         this.b = b;
     }
 
-    public int add(){
-        return a + b;
+    public int add(int c){
+        return a + b + c;
     }
 }
