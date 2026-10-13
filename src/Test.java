@@ -9,6 +9,6 @@ public class Test {
     }
 
     public int add(){
-        return a + b;
+        return a - b * 67;
     }
 }
