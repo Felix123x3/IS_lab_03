@@ -11,4 +11,8 @@ public class Test {
     public int add(int c){
         return a + b + c;
     }
+
+    public int average(){
+        return (a+b)/2;
+    }
 }
