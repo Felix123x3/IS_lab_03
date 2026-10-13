@@ -12,3 +12,10 @@ public class Test {
         return a + b + c;
     }
 }
+
+
+public void jungle(){
+    System.out.println("FelixL");
+
+
+}
